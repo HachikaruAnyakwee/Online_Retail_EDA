@@ -16,9 +16,13 @@ A detailed report summarizing the findings and insights from this project can be
 The codebase is organized as follows:
 
 [Online Retail.xlsx](<Online Retail.xlsx>): This directory contains the raw cleaned online retail dataset.
+
 [Online Retail_EDA}_lite.ipynb](<Online Retail_EDA}_lite.ipynb>): This directory houses the Python scripts used for data cleaning, exploration, and visualization.
+
 [Online Retail.pbix](<Online Retail.pbix>): This contains the Powerbi Dashboard File.
+
 [documentation](Cleaning notes and Plan.docx): This contains some thought processes during EDA.
+
 [README.md](README.md): This file provides an overview of the project.
 
 # Getting Started:
